@@ -12,11 +12,6 @@
                       <FeaturePluginData displayName="Attach to Node.js/Chrome" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" bundled="true" />
                     </value>
                   </entry>
-                  <entry key="CodeceptionConfigurationType">
-                    <value>
-                      <FeaturePluginData displayName="Codeception" pluginName="Codeception Framework" pluginId="com.jetbrains.php.codeception" />
-                    </value>
-                  </entry>
                   <entry key="ComposerRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Composer Script" pluginName="PHP" pluginId="com.jetbrains.php" bundled="true" />
@@ -77,11 +72,6 @@
                       <FeaturePluginData displayName="PHPUnit" pluginName="PHP" pluginId="com.jetbrains.php" bundled="true" />
                     </value>
                   </entry>
-                  <entry key="PhpBehatConfigurationType">
-                    <value>
-                      <FeaturePluginData displayName="Behat" pluginName="Behat Support" pluginId="com.jetbrains.php.behat" />
-                    </value>
-                  </entry>
                   <entry key="PhpBuiltInWebServerConfigurationType">
                     <value>
                       <FeaturePluginData displayName="PHP Built-in Web Server" pluginName="PHP" pluginId="com.jetbrains.php" bundled="true" />
@@ -100,11 +90,6 @@
                   <entry key="PhpRemoteDebugRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="PHP Remote Debug" pluginName="PHP" pluginId="com.jetbrains.php" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="PhpSpecConfigurationType">
-                    <value>
-                      <FeaturePluginData displayName="PHPSpec" pluginName="PHPSpec BDD Framework" pluginId="com.jetbrains.php.phpspec" />
                     </value>
                   </entry>
                   <entry key="PhpWebAppRunConfigurationType">
