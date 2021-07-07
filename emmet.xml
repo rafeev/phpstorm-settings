@@ -1,7 +1,6 @@
 <application>
   <component name="CssEmmetOptions">
     <option name="autoInsertCssPrefixedEnabled" value="false" />
-    <option name="cssEmmetEnabled" value="false" />
     <option name="prefixes">
       <map>
         <entry key="accelerator" value="0" />
@@ -218,5 +217,8 @@
         <entry key="writing-mode" value="5" />
       </map>
     </option>
+  </component>
+  <component name="JsxEmmetOptions">
+    <option name="emmetEnabled" value="false" />
   </component>
 </application>
